@@ -1,0 +1,6 @@
+# Carpetas de compilación e IDEs
+cmake-build-debug/
+.idea/
+*.exe
+*.o
+*.obj
